@@ -15,7 +15,7 @@ struct ALUNO *aluno;
 
 int main() {	
 	printf("Largura da estrutura: %d bytes\n", sizeof(ALUNO));
-	aluno = (ALUNO*)calloc(5,sizeof(ALUNO));
+	aluno = (ALUNO*)calloc(,sizeof(ALUNO));
 	
 	for(int i=0; i<5; i++){
 		printf("Aluno %d: codigo-> %d | nome-> %s | nota-> %d\n", i, aluno[i].codigo, aluno[i].nome, aluno[i].nota);
