@@ -1,0 +1,10 @@
+FUNÇÕES:
+	cadastrar
+	alterar
+	excluir
+	pesquisar
+
+ENTIDADES:
+	Aluno
+	Professor
+
