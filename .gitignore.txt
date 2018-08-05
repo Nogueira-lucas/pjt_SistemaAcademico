@@ -1,0 +1,16 @@
+Aluno
+	matricula
+	nome
+	nota
+	
+
+Cadastrar
+
+Alterar
+
+Excluir
+
+Pesquisar
+
+Salvar
+
